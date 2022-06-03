@@ -1,4 +1,4 @@
-![Cover](https://github.com/appiwedia/appiwedia/blob/master/img/cover2.jpg)
+![Cover](https://github.com/appiwedia/appiwedia/blob/master/img/cover3.jpeg)
 
 ### Hi there 👋
 
