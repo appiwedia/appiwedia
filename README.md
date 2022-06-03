@@ -1,3 +1,5 @@
+![Cover](https://github.com/appiwedia/appiwedia/blob/master/img/cover2.jpg)
+
 ### Hi there 👋
 
 <!--
